@@ -8,9 +8,15 @@ O propósito central deste repositório é oferecer uma plataforma centralizada 
 Conteúdo:
 
 Java/QuickSort: Implementação do algoritmo de ordenação Quick Sort em Java.
+
 Java/MergeSort: Implementação do algoritmo de ordenação Merge Sort em Java.
+
 Java/HeapSort: Implementação do algoritmo de ordenação Heap Sort em Java.
+
 Python/QuickSort: Implementação do algoritmo de ordenação Quick Sort em Python.
+
 Python/MergeSort: Implementação do algoritmo de ordenação Merge Sort em Python.
+
 Python/HeapSort: Implementação do algoritmo de ordenação Heap Sort em Python.
+
 Arquivo Excel: Com os dados obtidos da pesquisa
